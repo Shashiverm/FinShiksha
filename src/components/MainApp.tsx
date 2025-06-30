@@ -73,7 +73,7 @@ const MainApp = () => {
               <IndianRupee className="h-5 w-5 lg:h-6 lg:w-6 text-white" />
             </div>
             <div>
-              <h1 className="text-lg lg:text-xl font-bold text-gray-900">FinShiksha</h1>
+              <h1 className="text-lg lg:text-xl font-bold text-gray-900">FinShikshaIn</h1>
               <p className="text-xs text-gray-500 hidden lg:block">Financial Literacy</p>
             </div>
           </div>

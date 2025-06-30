@@ -139,7 +139,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onGetStarted, onExplorePlatfo
     {
       name: 'Priya Sharma',
       role: 'Software Engineer, Mumbai',
-      content: 'FinShiksha helped me understand SIP investments in Hindi. Now I\'m confidently building my portfolio worth ₹5 lakhs!',
+      content: 'FinShikshaIn helped me understand SIP investments in Hindi. Now I\'m confidently building my portfolio worth ₹5 lakhs!',
       rating: 5,
       avatar: '👩‍💻',
       impact: 'Started investing ₹10,000/month in SIPs'
@@ -218,7 +218,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onGetStarted, onExplorePlatfo
                   <IndianRupee className="h-6 lg:h-10 w-6 lg:w-10 text-white" />
                 </div>
                 <div>
-                  <h1 className="text-2xl lg:text-4xl xl:text-5xl font-bold text-gray-900">FinShiksha</h1>
+                  <h1 className="text-2xl lg:text-4xl xl:text-5xl font-bold text-gray-900">FinShikshaIn</h1>
                   <p className="text-sm lg:text-lg text-orange-600 font-medium">Financial Literacy for India</p>
                 </div>
               </div>
@@ -432,7 +432,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onGetStarted, onExplorePlatfo
               Real Stories, Real Impact
             </h2>
             <p className="text-lg lg:text-xl text-gray-600">
-              See how FinShiksha is transforming financial literacy across India
+              See how FinShikshaIn is transforming financial literacy across India
             </p>
           </div>
           
@@ -514,7 +514,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onGetStarted, onExplorePlatfo
             Ready to Transform Your Financial Future?
           </h2>
           <p className="text-lg lg:text-xl text-orange-100 mb-8">
-            Join 50,000+ Indians who are already building wealth and securing their future with FinShiksha. 
+            Join 50,000+ Indians who are already building wealth and securing their future with FinShikshaIn. 
             Start your journey to financial freedom today!
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">

@@ -109,7 +109,7 @@ const Footer = () => {
                 <IndianRupee className="h-8 w-8 text-white" />
               </div>
               <div>
-                <h3 className="text-2xl font-bold">FinShiksha</h3>
+                <h3 className="text-2xl font-bold">FinShikshaInIn</h3>
                 <p className="text-orange-400 text-sm font-medium">Financial Literacy for India</p>
               </div>
             </div>
@@ -125,7 +125,7 @@ const Footer = () => {
                 <div className="bg-orange-500/20 p-2 rounded-lg">
                   <Mail className="h-4 w-4 text-orange-400" />
                 </div>
-                <span className="text-sm">support@finshiksha.com</span>
+                <span className="text-sm">support@FinShikshaIn.com</span>
               </div>
               <div className="flex items-center space-x-3 text-gray-300">
                 <div className="bg-orange-500/20 p-2 rounded-lg">
@@ -162,7 +162,7 @@ const Footer = () => {
                 <div className="bg-orange-500 p-2 rounded-lg">
                   <Newspaper className="h-5 w-5 text-white" />
                 </div>
-                <h4 className="text-xl font-bold">Stay Updated with FinShiksha</h4>
+                <h4 className="text-xl font-bold">Stay Updated with FinShikshaIn</h4>
               </div>
               <p className="text-gray-300 mb-6">
                 Get the latest financial tips, market updates, and exclusive content delivered to your inbox. 
@@ -269,7 +269,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             {/* Copyright */}
             <div className="text-gray-400 text-sm">
-              © {currentYear} FinShiksha. All rights reserved. 
+              © {currentYear} FinShikshaIn. All rights reserved. 
               <span className="text-orange-400 ml-1">Empowering Financial Literacy Across India.</span>
             </div>
 

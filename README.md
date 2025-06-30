@@ -271,11 +271,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Website**: [https://finshikshain.com](https://finshiksha.com)
+- **Website**: [https://finshikshain.com](https://finshikshain.com)
 - **Email**: support@finshikshain.com
-- **Community Forum**: [https://community.finshiksha.com](https://community.finshiksha.com)
-- **Twitter**: [@FinShikshain](https://twitter.com/finshiksha)
-- **LinkedIn**: [FinShikshain](https://linkedin.com/company/finshiksha)
+- **Community Forum**: [https://community.finshikshain.com](https://community.finshikshain.com)
+- **Twitter**: [@FinShikshaIn](https://twitter.com/finshikshain)
+- **LinkedIn**: [FinShikshaIn](https://linkedin.com/company/finshikshain)
 -- **links may not work right now**
 
 ## 🌟 Join the Movement

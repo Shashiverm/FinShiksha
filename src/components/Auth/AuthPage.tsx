@@ -43,7 +43,7 @@ const AuthPage: React.FC<AuthPageProps> = ({ onBackToLanding }) => {
                 <IndianRupee className="h-8 lg:h-12 w-8 lg:w-12 text-white" />
               </div>
               <div>
-                <h1 className="text-3xl lg:text-4xl font-bold text-gray-900">FinShiksha</h1>
+                <h1 className="text-3xl lg:text-4xl font-bold text-gray-900">FinShikshaIn</h1>
                 <p className="text-base lg:text-lg text-gray-600">Financial Literacy for India</p>
               </div>
             </div>
