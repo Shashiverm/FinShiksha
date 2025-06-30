@@ -1,4 +1,4 @@
-# FinShiksha - Financial Literacy Platform for India 🇮🇳
+# FinShikshaIN - Financial Literacy Platform for India 🇮🇳
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
@@ -271,11 +271,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Website**: [https://finshiksha.com](https://finshiksha.com)
-- **Email**: support@finshiksha.com
+- **Website**: [https://finshikshain.com](https://finshiksha.com)
+- **Email**: support@finshikshain.com
 - **Community Forum**: [https://community.finshiksha.com](https://community.finshiksha.com)
-- **Twitter**: [@FinShiksha](https://twitter.com/finshiksha)
-- **LinkedIn**: [FinShiksha](https://linkedin.com/company/finshiksha)
+- **Twitter**: [@FinShikshain](https://twitter.com/finshiksha)
+- **LinkedIn**: [FinShikshain](https://linkedin.com/company/finshiksha)
+-- **links may not work right now**
 
 ## 🌟 Join the Movement
 
