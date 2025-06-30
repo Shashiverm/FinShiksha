@@ -8,8 +8,7 @@ export default defineConfig({
     exclude: ['lucide-react'],
   },
   server: {
-  host: '0.0.0.0',
-  port: process.env.PORT ? Number(process.env.PORT) : 5173,
-},
-  
+    host: '0.0.0.0',
+    port: process.env.PORT ? Number(process.env.PORT) : 10000,
+  },
 });
